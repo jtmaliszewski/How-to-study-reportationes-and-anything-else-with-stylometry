@@ -13,7 +13,7 @@ The textual data (data/raw_data) is derived from:
 - Chanter, Summa de sacramentis: manually corrected OCR from J.-A. Dugauquier's 1954 edition (vol. I, p. 13-182).
 - Lotarius, De mysteriis missae: plain text extracted from source files (.doc) of O. Hanne's 2022 edition, kindly shared for this purpose by the editor.   
 
-All files were lemmatised using UDPipe, with records stored in processing/full_lemmatization_records.
+All files were lemmatised using UDPipe (https://lindat.mff.cuni.cz/services/udpipe/), with records stored in processing/full_lemmatization_records.
 
 ## Funding Statement
 
